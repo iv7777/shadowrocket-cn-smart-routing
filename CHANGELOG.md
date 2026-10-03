@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- 在 README“复制稳定配置 URL”一步增加二维码，方便在电脑上阅读时用手机取得同一个地址；
+
 ## 0.2.1 - 2026-10-03
 
 - 将规范仓库切换为 `iv7777/shadowrocket-cn-smart-routing`：配置内 `update-url`、`manifest.json`、README、贡献与安全入口、Issue 模板、CODEOWNERS 与校验脚本中的仓库地址全部同步；

@@ -72,6 +72,11 @@ CN Direct 不追求规则版本最多、广告拦截最强或客户端最多。�
 https://raw.githubusercontent.com/iv7777/shadowrocket-cn-smart-routing/main/configs/shadowrocket/CN-Direct-DeepWheel.conf
 ```
 
+<p align="center">
+  <img src="assets/intro/cn-direct-config-url-qr.png" alt="稳定配置 URL 的二维码，扫码得到上方同一个地址" width="180"><br>
+  <sub>在电脑上阅读？用手机扫码即可拿到上方同一个地址。</sub>
+</p>
+
 在 Shadowrocket 的“配置”页通过远程 URL 添加。配置真源为 [`CN-Direct-DeepWheel.conf`](configs/shadowrocket/CN-Direct-DeepWheel.conf)。
 
 ### 3. 使用配置
