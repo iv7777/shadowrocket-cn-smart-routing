@@ -20,7 +20,7 @@
   <text x="118" y="764" font-family="'Avenir Next','Inter','PingFang SC',sans-serif" font-weight="700" font-size="16" fill="#5C626B" letter-spacing="1.8">STEP 02 · 分享</text>
   <text x="118" y="824" font-family="'Avenir Next','PingFang SC','Inter',sans-serif" font-weight="600" font-size="34" fill="#101722">发送公开项目主页</text>
   <rect x="118" y="858" width="930" height="54" rx="14" fill="#FFFFFF" stroke="#E1E6EE"/>
-  <text x="144" y="892" font-family="'Avenir Next','Inter','PingFang SC',sans-serif" font-weight="600" font-size="17" fill="#42474F">github.com/lucaszsGH/shadowrocket-cn-smart-routing</text>
+  <text x="144" y="892" font-family="'Avenir Next','Inter','PingFang SC',sans-serif" font-weight="600" font-size="17" fill="#42474F">github.com/iv7777/shadowrocket-cn-smart-routing</text>
 
   <line x1="82" y1="1000" x2="1118" y2="1000" stroke="#E1E6EE"/>
   <text x="82" y="1052" font-family="'Avenir Next','PingFang SC','Inter',sans-serif" font-weight="600" font-size="22" fill="#101722">只分享项目，不分享隐私</text>

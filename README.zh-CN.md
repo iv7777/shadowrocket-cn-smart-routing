@@ -69,7 +69,7 @@ CN Direct 不追求规则版本最多、广告拦截最强或客户端最多。�
 ### 2. 复制稳定配置 URL
 
 ```text
-https://raw.githubusercontent.com/lucaszsGH/shadowrocket-cn-smart-routing/main/configs/shadowrocket/CN-Direct-DeepWheel.conf
+https://raw.githubusercontent.com/iv7777/shadowrocket-cn-smart-routing/main/configs/shadowrocket/CN-Direct-DeepWheel.conf
 ```
 
 在 Shadowrocket 的“配置”页通过远程 URL 添加。配置真源为 [`CN-Direct-DeepWheel.conf`](configs/shadowrocket/CN-Direct-DeepWheel.conf)。
@@ -127,7 +127,7 @@ https://raw.githubusercontent.com/lucaszsGH/shadowrocket-cn-smart-routing/main/c
 把项目主页发给朋友即可：
 
 ```text
-https://github.com/lucaszsGH/shadowrocket-cn-smart-routing
+https://github.com/iv7777/shadowrocket-cn-smart-routing
 ```
 
 ![点亮 Star 收藏项目，并把公开项目链接分享给朋友](assets/intro/cn-direct-star-share-zh-CN.png)
@@ -167,8 +167,8 @@ CN Direct 使用固定到已验证提交的 ChinaMax 作为大陆覆盖基础，
 
 ## 遇到问题，一起把它做得更好
 
-- 只知道哪里不好用：提交[分流问题](https://github.com/lucaszsGH/shadowrocket-cn-smart-routing/issues/new?template=routing-problem.yml)；
-- 知道需要补哪个公开域名：提交[规则建议](https://github.com/lucaszsGH/shadowrocket-cn-smart-routing/issues/new?template=rule-request.yml)；
+- 只知道哪里不好用：提交[分流问题](https://github.com/iv7777/shadowrocket-cn-smart-routing/issues/new?template=routing-problem.yml)；
+- 知道需要补哪个公开域名：提交[规则建议](https://github.com/iv7777/shadowrocket-cn-smart-routing/issues/new?template=rule-request.yml)；
 - 想直接改进配置或文档：查看[参与贡献](CONTRIBUTING.md)并提交 Pull Request。
 
 不要公开提交订阅 URL、节点、二维码、Cookie、Token、公网 IP、账号信息或完整日志。
@@ -190,9 +190,9 @@ CN Direct 使用固定到已验证提交的 ChinaMax 作为大陆覆盖基础，
 
 当前正式版本：`0.2.0`。
 
-[![配置校验](https://github.com/lucaszsGH/shadowrocket-cn-smart-routing/actions/workflows/validate.yml/badge.svg)](https://github.com/lucaszsGH/shadowrocket-cn-smart-routing/actions/workflows/validate.yml)
-[![最新正式版](https://img.shields.io/github/v/release/lucaszsGH/shadowrocket-cn-smart-routing?label=release)](https://github.com/lucaszsGH/shadowrocket-cn-smart-routing/releases)
-[![GPL-2.0 许可证](https://img.shields.io/github/license/lucaszsGH/shadowrocket-cn-smart-routing)](LICENSE)
+[![配置校验](https://github.com/iv7777/shadowrocket-cn-smart-routing/actions/workflows/validate.yml/badge.svg)](https://github.com/iv7777/shadowrocket-cn-smart-routing/actions/workflows/validate.yml)
+[![最新正式版](https://img.shields.io/github/v/release/iv7777/shadowrocket-cn-smart-routing?label=release)](https://github.com/iv7777/shadowrocket-cn-smart-routing/releases)
+[![GPL-2.0 许可证](https://img.shields.io/github/license/iv7777/shadowrocket-cn-smart-routing)](LICENSE)
 
 本地校验：
 

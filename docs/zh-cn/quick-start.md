@@ -16,7 +16,7 @@ CN Direct不提供节点或订阅，也不会自动替你选择国家或节点�
 然后复制下面的稳定地址：
 
 ```text
-https://raw.githubusercontent.com/lucaszsGH/shadowrocket-cn-smart-routing/main/configs/shadowrocket/CN-Direct-DeepWheel.conf
+https://raw.githubusercontent.com/iv7777/shadowrocket-cn-smart-routing/main/configs/shadowrocket/CN-Direct-DeepWheel.conf
 ```
 
 在Shadowrocket的配置页通过远程URL添加，并使用`CN-Direct-DeepWheel.conf`。

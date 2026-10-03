@@ -24,7 +24,7 @@ PRODUCT = "CN Direct by DeepWheel"
 CANONICAL_CONFIG_PATH = "configs/shadowrocket/CN-Direct-DeepWheel.conf"
 LEGACY_CONFIG_PATH = "configs/shadowrocket/cn-smart-routing.conf"
 CANONICAL_RAW_URL = (
-    "https://raw.githubusercontent.com/lucaszsGH/"
+    "https://raw.githubusercontent.com/iv7777/"
     "shadowrocket-cn-smart-routing/main/"
     f"{CANONICAL_CONFIG_PATH}"
 )

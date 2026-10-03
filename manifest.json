@@ -5,11 +5,11 @@
   "channel": "stable",
   "config": {
     "path": "configs/shadowrocket/CN-Direct-DeepWheel.conf",
-    "sha256": "947ebfb8376795f7a35ed9f2cd5ce8f7f2428021af57b9f37e49d7deb483655d"
+    "sha256": "c1a39b5219795c5a910c2d2566fd0635540c174d8f28c64dfa206628e9824dfd"
   },
   "distribution": {
     "primary_installation": "remote_url",
-    "stable_raw_url": "https://raw.githubusercontent.com/lucaszsGH/shadowrocket-cn-smart-routing/main/configs/shadowrocket/CN-Direct-DeepWheel.conf",
+    "stable_raw_url": "https://raw.githubusercontent.com/iv7777/shadowrocket-cn-smart-routing/main/configs/shadowrocket/CN-Direct-DeepWheel.conf",
     "legacy_raw_path": "configs/shadowrocket/cn-smart-routing.conf",
     "automatic_config_update": "embedded_update_url_requires_shadowrocket_background_update",
     "recommended_update_interval_days": 3

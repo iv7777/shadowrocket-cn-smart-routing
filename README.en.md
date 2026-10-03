@@ -43,7 +43,7 @@ Import and update your own provider subscription in Shadowrocket, then select a 
 ### 2. Copy the stable configuration URL
 
 ```text
-https://raw.githubusercontent.com/lucaszsGH/shadowrocket-cn-smart-routing/main/configs/shadowrocket/CN-Direct-DeepWheel.conf
+https://raw.githubusercontent.com/iv7777/shadowrocket-cn-smart-routing/main/configs/shadowrocket/CN-Direct-DeepWheel.conf
 ```
 
 Add it as a remote URL on Shadowrocket's Config page. Canonical source: [`CN-Direct-DeepWheel.conf`](configs/shadowrocket/CN-Direct-DeepWheel.conf).
@@ -119,11 +119,11 @@ Know before use:
 Share the public project page, never your private subscription:
 
 ```text
-https://github.com/lucaszsGH/shadowrocket-cn-smart-routing
+https://github.com/iv7777/shadowrocket-cn-smart-routing
 ```
 
-- Report a [routing problem](https://github.com/lucaszsGH/shadowrocket-cn-smart-routing/issues/new?template=routing-problem.yml);
-- suggest a [public rule](https://github.com/lucaszsGH/shadowrocket-cn-smart-routing/issues/new?template=rule-request.yml);
+- Report a [routing problem](https://github.com/iv7777/shadowrocket-cn-smart-routing/issues/new?template=routing-problem.yml);
+- suggest a [public rule](https://github.com/iv7777/shadowrocket-cn-smart-routing/issues/new?template=rule-request.yml);
 - read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a Pull Request.
 
 Never post subscription URLs, nodes, QR codes, cookies, tokens, public IPs, account data or full logs.

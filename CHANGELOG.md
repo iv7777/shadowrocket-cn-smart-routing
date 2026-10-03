@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- 将规范仓库切换为 `iv7777/shadowrocket-cn-smart-routing`：配置内 `update-url`、`manifest.json`、README、贡献与安全入口、Issue 模板、CODEOWNERS 与校验脚本中的仓库地址全部同步；
+- 在海外规则集之前显式直连 9 个被第三方 `DOMAIN-KEYWORD`（github、openai、colab、1drv）误判为代理的大陆域名，如 `hellogithub.com`、`openailab.com`；
+- 将 `skip-proxy` 与 `tun-excluded-routes` 对齐，补充 `100.64.0.0/10`、`169.254.0.0/16` 与 `*.lan`；
 - 在安装步骤前增加 Shadowrocket 官方 App Store 入口：美区作为推荐主入口、港区作为已有账号用户的备用入口，并明确中国大陆区未上架及账号安全边界；
 - 将简体中文设为 GitHub 默认首页，按消费者决策顺序重构价值、信任证据、Star、安装、更新、分享与反馈链路；
 - 增加独立英文入口 `README.en.md`，并保留 `README.zh-CN.md` 兼容路径；

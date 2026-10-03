@@ -6,8 +6,8 @@
 
 ## 最简单的参与方式
 
-- 只知道哪里不好用：提交[分流问题](https://github.com/lucaszsGH/shadowrocket-cn-smart-routing/issues/new?template=routing-problem.yml)；
-- 知道要补哪个公开域名：提交[规则建议](https://github.com/lucaszsGH/shadowrocket-cn-smart-routing/issues/new?template=rule-request.yml)，也可以直接发 Pull Request；
+- 只知道哪里不好用：提交[分流问题](https://github.com/iv7777/shadowrocket-cn-smart-routing/issues/new?template=routing-problem.yml)；
+- 知道要补哪个公开域名：提交[规则建议](https://github.com/iv7777/shadowrocket-cn-smart-routing/issues/new?template=rule-request.yml)，也可以直接发 Pull Request；
 - 涉及凭证或其他敏感信息：不要公开提交，先看 [SECURITY.md](SECURITY.md)。
 
 ## 提交 Pull Request
