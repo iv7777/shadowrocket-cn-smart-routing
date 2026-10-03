@@ -4,6 +4,10 @@ on:
   push:
     branches: [main]
   pull_request:
+  workflow_dispatch:
+  schedule:
+    # Weekly remote-rule check (Mondays 02:17 UTC); scheduled runs use the default branch.
+    - cron: "17 2 * * 1"
 
 permissions:
   contents: read
@@ -18,3 +22,15 @@ jobs:
           python-version: "3.12"
       - run: python3 scripts/validate_shadowrocket.py
       - run: python3 scripts/render-intro-assets.py
+
+  # Pinned third-party rule URLs are the most likely thing to rot, but an upstream
+  # outage should not block pull requests, so this only runs on schedule or on demand.
+  remote-rules:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/validate_shadowrocket.py --network
