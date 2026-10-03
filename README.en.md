@@ -131,7 +131,7 @@ Never post subscription URLs, nodes, QR codes, cookies, tokens, public IPs, acco
 <details>
 <summary><strong>Version, validation and license</strong></summary>
 
-Current stable version: `0.2.0`.
+Current stable version: `0.2.1`.
 
 ```bash
 python3 scripts/validate_shadowrocket.py

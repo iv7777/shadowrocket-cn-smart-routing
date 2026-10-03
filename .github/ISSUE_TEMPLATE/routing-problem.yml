@@ -33,7 +33,7 @@ body:
     attributes:
       label: 配置版本或提交号
       description: 可在配置列表点击文件名称，再选择“预览”查看顶部版本。
-      placeholder: 例如 0.2.0 或短 Git 提交号
+      placeholder: 例如 0.2.1 或短 Git 提交号
     validations:
       required: true
   - type: input

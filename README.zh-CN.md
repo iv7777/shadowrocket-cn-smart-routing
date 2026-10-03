@@ -188,7 +188,7 @@ CN Direct 使用固定到已验证提交的 ChinaMax 作为大陆覆盖基础，
 <details>
 <summary><strong>版本、校验与许可证</strong></summary>
 
-当前正式版本：`0.2.0`。
+当前正式版本：`0.2.1`。
 
 [![配置校验](https://github.com/iv7777/shadowrocket-cn-smart-routing/actions/workflows/validate.yml/badge.svg)](https://github.com/iv7777/shadowrocket-cn-smart-routing/actions/workflows/validate.yml)
 [![最新正式版](https://img.shields.io/github/v/release/iv7777/shadowrocket-cn-smart-routing?label=release)](https://github.com/iv7777/shadowrocket-cn-smart-routing/releases)

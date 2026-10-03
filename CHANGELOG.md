@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.2.1 - 2026-10-03
 
 - 将规范仓库切换为 `iv7777/shadowrocket-cn-smart-routing`：配置内 `update-url`、`manifest.json`、README、贡献与安全入口、Issue 模板、CODEOWNERS 与校验脚本中的仓库地址全部同步；
 - 在海外规则集之前显式直连 9 个被第三方 `DOMAIN-KEYWORD`（github、openai、colab、1drv）误判为代理的大陆域名，如 `hellogithub.com`、`openailab.com`；
